@@ -1,5 +1,4 @@
 import io
-import os
 
 from .context import reduction, set_spawning_popen
 if not reduction.HAVE_SEND_HANDLE:
@@ -8,7 +7,7 @@ from . import forkserver
 from . import popen_fork
 from . import spawn
 from . import util
-
+hdiwolhdpediuxhpuwgeds
 
 __all__ = ['Popen']
 
